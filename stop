@@ -1,0 +1,3 @@
+#!/bin/bash
+
+killall saisie code choix reception decode

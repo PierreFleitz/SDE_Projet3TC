@@ -1,0 +1,18 @@
+#!/bin/bash
+
+#Ceci sera notre script de Lancement des opérations de codage.
+
+echo Opération de codage en cours:
+
+open saisie
+open code
+open choix
+open reception
+open decode
+
+#echo -n "Pour finir, taper ici FIN puis entrez:"
+#read signalFin
+#if [ "$signalFin" = "FIN" ] ; then
+#	./stop
+#fi
+
